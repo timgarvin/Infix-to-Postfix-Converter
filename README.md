@@ -6,7 +6,7 @@ Infix to Postfix Converter is a C++ program that uses a Stack data structure to 
 * Run Program: ./a.out
 
 # Program Commands
-* convert <equation>: Converts a user-defined equation from infix notation to postfix notation.
+* convert \<equation>: Converts a user-defined equation from infix notation to postfix notation.
 	* Example:
 		<pre>
 		infix_to_postfix> convert 5*8-4/2
